@@ -1,0 +1,61 @@
+.stud-sec {
+  min-height: 700px;
+  background: url("../../images/bg-sec-1.png") center no-repeat;
+  background-position: -350px 150px;
+  margin-top: 90px;
+}
+
+.students {
+  margin-left: -100px;
+}
+
+.about {
+
+}
+
+.about__title {
+  max-width: 509px;
+  color: #333333;
+  font-family: "Raleway";
+  font-size: 36px;
+  font-weight: 500;
+  padding-bottom: 50px;
+  margin-top: 170px;
+}
+
+.about__desc {
+  color: #8c8c8c;
+  font-family: "Open Sans";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 27px;
+  padding-bottom: 30px;
+}
+.about__btn {
+  min-width: 130px;
+  min-height: 45px;
+  border: none;
+  border-radius: 33px;
+  background-color: #ff5f60;
+  padding: 10px 35px;
+  color: #fff;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 400;
+  &:active {
+    outline: none;
+    outline-offset: 0;
+  }
+  &:hover {
+    outline: none;
+    outline-offset: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  &:focus {
+    outline: none;
+    outline-offset: 0;
+  }
+}
+
+
+
